@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="/usr/local/Cellar/php@7.2/7.2.14/share/php@7.2/pear" />
+      <path value="/usr/local/Cellar/php@7.2/7.2.14/share/php@7.2/swoole" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+</project>
