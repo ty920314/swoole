@@ -1,4 +1,6 @@
 <?php
+namespace hello;
+use swoole_server;
 class Server
 {
     private $serv;
